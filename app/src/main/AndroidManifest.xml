@@ -9,14 +9,14 @@
         android:roundIcon="@drawable/earphones"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:label="@string/library">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".NowPlaying"></activity>
+        <activity android:name=".NowPlaying" android:label="@string/nowPlaying"></activity>
     </application>
 
 </manifest>
