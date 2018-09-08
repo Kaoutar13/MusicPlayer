@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="library">Library</string>
+    <string name="nowPlaying">Now Playing</string>
+    <!--List of songs-->
+    <string name="this_is_it">This is it</string>
+    <string name="ghosts">Ghosts</string>
+    <string name="idol">IDOL</string>
+    <!--List of artists-->
+    <string name="michael_jackson">Michael Jackson</string>
+    <string name="bts">BTS</string>
+</resources>
